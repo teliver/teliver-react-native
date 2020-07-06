@@ -5,7 +5,9 @@ Live tracking in android especially live locality shares are now taken a step fo
 Accuracy: the base quality being accuracy, Teliver strives in delivering the best ofresults. Multi Business Solutions: Real-Time solutions for business requiring it is delivered with precision. Advanced Customization: With micro managerial possibilities, the opportunity to customize is practically infinite. Create your Teliver (live tracking in android) account today: https://app.teliver.io.
 # Configuration
 To begin with – The configuration steps
+```javascript
 1. npm install teliver --save.
+```
 2. Obtain the map key from Google maps [page](https://developers.google.com/maps/documentation/android-api/).
 3. Open your AndroidManifest.xml file inside your android folder of your project and paste the following code under application tag after embedding your map key obtained from Google.
 ```markdown
